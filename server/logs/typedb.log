@@ -1,0 +1,36 @@
+11:54:45.711 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - TypeDB Server is now running and will keep this process alive.
+11:54:45.713 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - You can press CTRL+C to shutdown this server.
+11:54:45.713 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - 
+11:54:45.713 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - version: 2.17.0
+11:54:45.714 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - listening to address: 0.0.0.0:1729
+11:54:45.714 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - data directory configured to: C:\Users\MSI\Desktop\typedb-all-windows-2.17.0\server\data
+11:54:45.714 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - bootup completed in: 838 ms
+11:54:45.714 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - 
+12:09:28.170 [typedb-service::0] ERROR com.vaticle.typedb.core.server.TransactionService - [TXN12] Invalid Transaction Operation: Attempted schema writes when session type does not allow.
+12:09:45.209 [typedb-service::0] ERROR com.vaticle.typedb.core.server.TransactionService - [TXN12] Invalid Transaction Operation: Attempted schema writes when session type does not allow.
+12:11:39.235 [typedb-service::0] ERROR com.vaticle.typedb.core.server.TransactionService - [TXN12] Invalid Transaction Operation: Attempted schema writes when session type does not allow.
+12:26:41.324 [typedb-service::0] ERROR com.vaticle.typedb.core.server.TransactionService - [TXN13] Invalid Transaction Operation: Attempted data writes when session type does not allow.
+15:34:17.969 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - TypeDB Server is now running and will keep this process alive.
+15:34:17.972 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - You can press CTRL+C to shutdown this server.
+15:34:17.973 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - 
+15:34:17.973 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - version: 2.17.0
+15:34:17.973 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - listening to address: 0.0.0.0:1729
+15:34:17.973 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - data directory configured to: C:\Users\MSI\Desktop\typedb-all-windows-2.17.0\server\data
+15:34:17.974 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - bootup completed in: 1808 ms
+15:34:17.974 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - 
+20:53:29.153 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - TypeDB Server is now running and will keep this process alive.
+20:53:29.155 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - You can press CTRL+C to shutdown this server.
+20:53:29.156 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - 
+20:53:29.156 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - version: 2.17.0
+20:53:29.156 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - listening to address: 0.0.0.0:1729
+20:53:29.156 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - data directory configured to: C:\Users\MSI\Desktop\typedb-all-windows-2.17.0\server\data
+20:53:29.156 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - bootup completed in: 1585 ms
+20:53:29.156 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - 
+16:20:25.259 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - TypeDB Server is now running and will keep this process alive.
+16:20:25.262 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - You can press CTRL+C to shutdown this server.
+16:20:25.262 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - 
+16:20:25.262 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - version: 2.17.0
+16:20:25.262 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - listening to address: 0.0.0.0:1729
+16:20:25.262 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - data directory configured to: C:\Users\MSI\Desktop\ETSII\4\2 Cuatrimestre\CBD\Proyecto\typedb-all-windows-2.17.0\server\data
+16:20:25.263 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - bootup completed in: 1225 ms
+16:20:25.263 [main] INFO com.vaticle.typedb.core.server.TypeDBServer - 
